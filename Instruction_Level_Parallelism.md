@@ -1,4 +1,4 @@
-### 基于指令级并行（instruction-level parallelism）对单精度浮点数指数函数进行优化
+## 基于指令级并行（instruction-level parallelism）对单精度浮点数指数函数进行优化
 指令级并行(instruction-level parallelism)优化是指当多条指令不存在相关关系时，他们在流水线(pipeline)上可以重叠执行从而提高性能，这种指令序列存在的潜在并行性成为指令级并行。
 
 ```cpp
